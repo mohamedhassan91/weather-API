@@ -9,11 +9,15 @@ if you want to use the link sign up on the weather link take your api key
 
 
 # steps to run the app on your local machine 
- create your virtual env and activate it 
-![image](https://user-images.githubusercontent.com/60258264/211167359-f179e06e-ab61-4175-b515-a9c756f16301.png)
-project_env/Scripts/activate.bat
+ *create your virtual env and activate it
+ ![image](https://user-images.githubusercontent.com/60258264/211167437-8f759202-0b6e-4158-8b6e-14d303e11c1b.png)
+
+project_env/Scripts/activate.bat 
+
 install all the requirements
+
 pip install -r requirements.txt
+
 Now you are ready to go !
 
 start the app from app.py
